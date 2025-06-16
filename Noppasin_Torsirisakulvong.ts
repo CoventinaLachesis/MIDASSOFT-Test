@@ -48,10 +48,11 @@ while (queue.length > 0) {
 
 return ans;
 }
-let start='d6'
-let target='h8'
-let brokenTiles= ['f6','f7']
-console.log(getMinMove(start,target,brokenTiles))
+
+// let start='d6'
+// let target='h8'
+// let brokenTiles= ['f6','f7']
+// console.log(getMinMove(start,target,brokenTiles))
 
 
 
